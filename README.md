@@ -1,4 +1,4 @@
-## This is a fork of [Luxas' Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) to avoid DNS override of our the network settings.
+## This is a fork of [Luxas' Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) to avoid DNS override of our network settings.
 
 ## Welcome to the Kubernetes on ARM project!
 
